@@ -6,7 +6,7 @@ The goal of this assessment is to evaluate your ability to analyze market sentim
 
 ### **Task 1: Data Collection**
 
-1. Load the dataset from the file `src/data.csv` into a data frame. Familiarize yourself with its structure.
+1. Load the dataset from the file `src/data.csv`, into a data frame, use the following encoding: `ISO-8859-1`. Familiarize yourself with its structure.
     - Hint - You may wanna preprocess the text data (by cleaning, tokenizing, and normalizing it).
 
 ---
